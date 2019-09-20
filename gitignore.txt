@@ -1,0 +1,10 @@
+add gitignore information
+  .classpath
+   .gitignore
+   target/
+   .idea/
+   .project
+   .settings/
+
+exc:
+git config --global core.excludesfile .gitignore 设置全局变量再push的时候就不会提交到远端
