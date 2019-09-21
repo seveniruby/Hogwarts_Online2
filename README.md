@@ -15,4 +15,6 @@ SDKKFK邮箱里边看有没有邀请
 SSH密钥
 git checkout -b 分
 git fetch origin
-
+git merge 
+git branch
+合并到develop分支
