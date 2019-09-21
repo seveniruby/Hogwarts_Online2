@@ -11,4 +11,8 @@ branch windy_practice update 2
 branch cui update 1
 BRanch cui update 2
 不知道该写一些什么东西、
-邮箱里边看有没有邀请
+SDKKFK邮箱里边看有没有邀请
+SSH密钥
+git checkout -b 分
+git fetch origin
+
